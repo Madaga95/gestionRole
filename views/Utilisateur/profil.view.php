@@ -1,0 +1,1 @@
+<h1>Profil de <?= $infos['login']?></h1>
